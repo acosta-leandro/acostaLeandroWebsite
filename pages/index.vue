@@ -3,10 +3,10 @@
 
 
 
-const description = ref("My amazing site.");
+const description = ref("Leandro Acosta - Assistant Teacher - AI and IT");
 
 useSeoMeta({
-  title: "Leandro Acosta - Software Engineer",
+  title: "Leandro Acosta",
   description,
 });
 </script>
